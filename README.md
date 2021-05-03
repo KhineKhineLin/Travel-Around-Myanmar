@@ -1,4 +1,4 @@
-# travel_around
+# Travel Around Flutter
 
 A new Flutter project.
 
